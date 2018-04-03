@@ -1,0 +1,98 @@
+[ 
+    {
+        "id": 29,
+        "title": "Levi's",
+        "info": "品牌纪录片 | 服装 | 2018.1.2",
+        "titleEn": "Levi's",
+        "infoEn": "Brand Documentary | Catering | 2018.1.2",
+        "img": "../resource/works/levis1.jpg"
+    },
+    {
+        "id": 27,
+        "title": "招商银行留学信用卡",
+        "info": "产品宣传片 | 银行 | 2017.10.25",
+        "titleEn": "CMB Overseas credit card",
+        "infoEn": "Product Video | Banking | 2017.10.25",
+        "img": "../resource/works/zhlxs1.jpg"
+    },
+    {
+        "id": 26,
+        "title": "科大智能",
+        "info": "企业宣传片｜制造业｜2018.1.3",
+        "titleEn": "CSG",
+        "infoEn": "Enterprise video｜Manufacturing｜2018.1.3",
+        "img": "../resource/works/kdzn1.jpg"
+    },
+    {
+        "id": 25,
+        "title": "招行信用卡15周年-与未来联名",
+        "info": "品牌形象片｜银行｜2017.12.5",
+        "titleEn": "CMB Credit Card Center-Connect The Future",
+        "infoEn": "Brand image film｜Banking｜2017.12.5",
+        "img": "../resource/works/zhwlp1.jpg"
+    },
+    {
+        "id": 22,
+        "title": "上海浦东辅读学校",
+        "info": "公益片｜教育｜2017.4.28",
+        "titleEn": "Shanghai Pudong Special Education School",
+        "infoEn": "Public Service advertising｜Education｜2017.4.28",
+        "img": "../resource/works/fdxx1.jpg"
+    },
+    {
+        "id": 21,
+        "title": "万科哥伦比亚公园",
+        "info": "品牌形象片｜房地产｜2017.4.28",
+        "titleEn": "Columbia Circle",
+        "infoEn": "Brand image film｜Real Estate｜2017.4.28",
+        "img": "../resource/works/glby1.jpg"
+    },
+    {
+        "id": 20,
+        "title": "中芯国际",
+        "info": "企业宣传片｜制造业｜2016.12.28",
+        "titleEn": "SMIC",
+        "infoEn": "Enterprise video｜Manufacturing｜2016.12.28",
+        "img": "../resource/works/zxgj1.jpg"
+    },
+    {
+        "id": 19,
+        "title": "万科金域澜湾",
+        "info": "企业宣传片｜房地产｜2016.6.24",
+        "titleEn": "VANKE The Paradiso",
+        "infoEn": "Enterprise video｜Real Estate｜2016.6.24",
+        "img": "../resource/works/jylw_1.jpg"
+    },
+    {
+        "id": 17,
+        "title": "晋能集团",
+        "info": "企业宣传片｜制造业｜2016.4.16",
+        "titleEn": "Jinneng Group",
+        "infoEn": "Enterprise video｜Manufacturing｜2016.4.16",
+        "img": "../resource/works/sxjn_1.jpg"
+    },
+    {
+        "id": 16,
+        "title": "报喜鸟华服定制",
+        "info": "微电影 | 服装｜2016.3.13",
+        "titleEn": "SAINT ANGELO  Customized Chinese clothing",
+        "infoEn": "Micro film｜Costume｜2016.3.13",
+        "img": "../resource/works/bxn_1.jpg"
+    },
+    {
+        "id": 15,
+        "title": "必胜客",
+        "info": "电视广告TVC｜餐饮 | 2016.5.17",
+        "titleEn": "Pizza Hut",
+        "infoEn": "TVC | Catering | 2016.5.17",
+        "img": "../resource/works/bsk_1.jpg"
+    },
+    {
+        "id": 14,
+        "title": "美涛",
+        "info": "电视广告TVC｜造型｜2016.12.30",
+        "titleEn": "Maestro",
+        "infoEn": "Product video｜Hairdressing｜2016.12.30",
+        "img": "../resource/works/mt1.jpg"
+    }
+]
